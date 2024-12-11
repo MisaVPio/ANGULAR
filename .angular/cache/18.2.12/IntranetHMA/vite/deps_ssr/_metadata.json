@@ -1,47 +1,56 @@
 {
-  "hash": "703a3f6a",
-  "configHash": "1c00c8c5",
+  "hash": "164cb899",
+  "configHash": "5fb1f6a5",
   "lockfileHash": "3794dc3d",
-  "browserHash": "ef6de8be",
+  "browserHash": "6b6190c7",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "7d9f6f40",
+      "fileHash": "c645b14a",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "4dac40f8",
+      "fileHash": "46b205d4",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "964487fe",
+      "fileHash": "f0c1d6e4",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "a25fc2f0",
       "needsInterop": false
     },
     "@angular/platform-server": {
       "src": "../../../../../../node_modules/@angular/platform-server/fesm2022/platform-server.mjs",
       "file": "@angular_platform-server.js",
-      "fileHash": "3f6aa69f",
+      "fileHash": "d5b741e4",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "99eafac5",
+      "fileHash": "f83c2abd",
       "needsInterop": false
     },
     "ngx-bootstrap/dropdown": {
       "src": "../../../../../../node_modules/ngx-bootstrap/dropdown/fesm2022/ngx-bootstrap-dropdown.mjs",
       "file": "ngx-bootstrap_dropdown.js",
-      "fileHash": "38c6fd3c",
+      "fileHash": "0abb000f",
       "needsInterop": false
     }
   },
   "chunks": {
+    "chunk-STRVAGKP": {
+      "file": "chunk-STRVAGKP.js"
+    },
     "chunk-S3JCAGRY": {
       "file": "chunk-S3JCAGRY.js"
     },
